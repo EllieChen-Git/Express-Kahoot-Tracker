@@ -1,8 +1,15 @@
 # Kahoot! Tracking API
 ---
+![Kahoot](./docs/kahoot.JPG)
+
+---
 ## Purpose
 
 This is an Express app to track Kahoot! winners in class.
+
+- If you have no idea what Kahoot is, it's a game-based learning platform, used as educational technology in schools and other educational institutions ([Wikipedia](https://en.wikipedia.org/wiki/Kahoot!)).
+
+- Also check out my favourite Kahoot song  "Drop It Like It's Ka-Hot" here: https://www.youtube.com/watch?v=HbcPNfGlkFc
 
 --- 
 ## How to Use This App
@@ -12,7 +19,7 @@ This is an Express app to track Kahoot! winners in class.
 
 - __Fully CRUD resources__: You can read all the Kahoot records and a single record in browser. You can post a new record, edit and delete a record through Postman.
 
-![Screenshot](./docs/records.JPG)
+![Kahootrecords](./docs/kahootrecords.JPG)
 
 --- 
 ## Development Process

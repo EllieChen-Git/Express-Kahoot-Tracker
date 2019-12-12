@@ -6,4 +6,4 @@ This is an Express app to track the Kahoot! winner in class.
 
 You can post a new record through Postman and you will be able to read all the Kahoot! records here.
 
-[!Screenshot](./docs/Screenshot.JPG)
+![Screenshot](./docs/Screenshot.JPG)

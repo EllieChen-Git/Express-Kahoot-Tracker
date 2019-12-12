@@ -6,8 +6,8 @@ const KahootSchema = new Schema({
         type: String,
         required: true
     },
-    kahootDate: {
-        type: String,
+    date: {
+        type: Date,
         required: true
     }
 })

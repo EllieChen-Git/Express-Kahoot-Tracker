@@ -6,16 +6,18 @@ This is an Express app to track Kahoot! winners in class.
 
 --- 
 ## How to Use This App
-__- URL__: http://localhost:3000/kahoots
-__- Date format__: yyyy-mm-dd
-__- Fully CRUD resources__: You can read all the Kahoot records and a single record in browser. You can post a new record, edit and delete a record through Postman.
+- __URL__: http://localhost:3000/kahoots
 
-![Screenshot](./docs/screenshot.JPG)
+- __Date format__: yyyy-mm-dd
+
+- __Fully CRUD resources__: You can read all the Kahoot records and a single record in browser. You can post a new record, edit and delete a record through Postman.
+
+![Screenshot](./docs/records.JPG)
 
 --- 
 ## Development Process
 
-#### Initial Setting
+### Initial Setting
 
 __1. Create a directory for this project__
 
@@ -80,7 +82,7 @@ $ npm run server
 - [Reminder] If mongoose is installed, you will need to run 'mongod' in a terminal window and then run 'npm run server' in a separate one.
 
 ---
-#### Building CRUD resources
+### Building CRUD resources
 
 __1. Create basic commands and routes in 'app.js'__
 
